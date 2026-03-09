@@ -1,0 +1,1 @@
+print("om dhum durgayah namah")
